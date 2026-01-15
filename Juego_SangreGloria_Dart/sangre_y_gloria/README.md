@@ -1,8 +1,8 @@
-🌟 Juego Sangre y Gloria 
+#🌟 Juego Sangre y Gloria 
 
 Juego Sangre y Glotia, proyecto interactivo creado en Dart y por terminal, el usuario podra jugar a un juego de gladiadores con una historia dentro.
 
-🚀 ¿Qué hace este proyecto?
+##🚀 ¿Qué hace este proyecto?
 
 Este juego te permite:
 
@@ -16,13 +16,13 @@ Este juego te permite:
 - Guardar y salir de la partida.
 ¡Prepárate para batallas y rutas en futuras actualizaciones! 🔥
 
-🛠️ Requisitos
+##🛠️ Requisitos
 
 Para ejecutar este proyecto, necesitas:
 Dart SDK (versión 3.0.0 o superior). 🎯
 
 
-Menú del Juego 
+##Menú del Juego 
 
 1. === MENÚ DE ACCIONES ===
 1. Ir a la Arena ⚔️
